@@ -17,13 +17,13 @@ function App() {
           </div>
           <ul class="nav justify-content-end">
             <li class="nav-item">
-              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Products</a>
+              <a class="nav-link disabled" href="http://localhost:3000/" tabindex="-1" aria-disabled="true">Products</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Price</a>
+              <a class="nav-link disabled" href="http://localhost:3000/" tabindex="-1" aria-disabled="true">Price</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Contacts</a>
+              <a class="nav-link disabled" href="http://localhost:3000/" tabindex="-1" aria-disabled="true">Contacts</a>
             </li>
           </ul>
         </nav>
